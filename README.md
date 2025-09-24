@@ -19,6 +19,7 @@
 </div>
   
 <!-- https://devicons.com // para pegar outros icons-->
+<!-- https://github.com/devicons/devicon/tree/master/icons/ // para pegar outros icons -->
 
 <!-- https://picrew.me // Para criar imagens para o gif-->
 
